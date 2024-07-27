@@ -61,10 +61,11 @@ pip install pysaucenao==1.6.2
 ```
 sauce = SauceNao(api_key="YOUR APIKEY")
 ```
-
-
-
+---
 
 **作者:** shuili
+
 **discord id:** shuili
+
 **最後更新時間:** 2024-07-27
+
